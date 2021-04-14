@@ -1,0 +1,17 @@
+{
+    "currentLang": "English" ,
+    "welcome": {
+        "title" : "Welcome to Simple House",
+        "desc" : "Total 3 HTML pages are included in this template. Header image has a parallax effect. You can feel free to download, edit and use this TemplateMo layout for your commercial or non-commercial websites."
+    },
+
+    "nav": {
+        "pizza": "Pizza",
+        "salad": "Salad",
+        "noodle": "Noodle"
+    },
+    "header": {
+        "title": "Simple House",
+        "description": "new restaurant template"
+    }
+}
